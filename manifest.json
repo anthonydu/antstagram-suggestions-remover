@@ -1,5 +1,5 @@
 {
-  "name": "Anti-Instagram - Suggestions Remover",
+  "name": "Antstagram - Suggestions Remover",
   "version": "1.0.1",
   "description": "Remove all suggestions and automatically load older posts!",
   "manifest_version": 3,
@@ -12,7 +12,7 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Anti-Instagram - Suggestions Remover"
+    "default_title": "Antstagram - Suggestions Remover"
   },
   "content_scripts": [
     {
