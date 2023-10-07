@@ -1,7 +1,7 @@
 {
   "name": "Anti-Instagram - Suggestions Remover",
-  "version": "1.0.0",
-  "description": "Remove all suggested posts from instagram.com!",
+  "version": "1.0.1",
+  "description": "Remove all suggestions and automatically load older posts!",
   "manifest_version": 3,
   "author": "Anthony Du",
   "icons": {
