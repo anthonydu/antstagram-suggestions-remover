@@ -1,6 +1,6 @@
 {
   "name": "Antstagram - Suggestions Remover",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Remove all suggestions and automatically load older posts!",
   "manifest_version": 3,
   "author": "Anthony Du",

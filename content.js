@@ -32,7 +32,7 @@ function handle() {
 }
 
 document.addEventListener("scroll", () => {
-  if (window.location.href.includes("?variant=past_posts") && window.scrollY == 0) {
-    window.location.href = window.location.href.replace("?variant=past_posts", "");
-  }
+  // if (window.location.href.includes("?variant=past_posts") && window.scrollY == 0) {
+  //   window.location.href = window.location.href.replace("?variant=past_posts", "");
+  // }
 });
